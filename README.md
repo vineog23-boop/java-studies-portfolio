@@ -11,3 +11,13 @@
 O **java-studies-portfolio** centraliza exercícios, práticas guiadas e pequenos projetos em Java, com foco em evolução técnica.
 ## 🎯 Objetivos
 - Praticar lógica, POO e organização de código.
+## 📂 Conteúdo atual
+```text
+java-studies-portfolio/
+├── src/
+│   ├── GameOfThronesPOO/
+│   ├── HarryPotterPoo/
+│   ├── MoocHelsinki/
+│   ├── TreinoJavaIniciante/
+│   └── TreinoJavaIntermediario/
+```
