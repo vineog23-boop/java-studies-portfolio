@@ -1,75 +1,62 @@
-# Portfolio-Java-Estudos ✨
+# java-studies-portfolio
 
----
+Repositório que centraliza exercícios, projetos pequenos e práticas guiadas de Java, com foco em evolução técnica e construção de base para backend.
 
-## 📚 O que é este repositório?
+## Proposta do repositório
 
-Este repositório é o meu espaço dedicado a estudos e projetos práticos em Java, com um foco intenso em aprofundar meus conhecimentos em **Programação Orientada a Objetos (POO)**, estruturas de dados e lógica de programação. Ele funciona como um portfólio dinâmico do meu aprendizado, onde demonstro a aplicação de conceitos fundamentais da linguagem e minha evolução contínua em desenvolvimento Back-end Java. Meu objetivo é mostrar como estou construindo uma base sólida e aplicando as melhores práticas desde o início da minha jornada.
+Este não é um único sistema pronto para produção. Ele funciona como um repositório curado de estudos práticos, reunindo exercícios e mini projetos que mostram a evolução em:
 
----
+- lógica de programação
+- orientação a objetos
+- organização de código
+- prática contínua em Java
 
-## 🎯 O que eu pratiquei aqui
+## Tecnologias e ferramentas
 
-Neste projeto, tive a oportunidade de aplicar e consolidar diversos conceitos essenciais para o desenvolvimento Java, sempre com a mentalidade de um futuro desenvolvedor Back-end:
+- Java
+- Git e GitHub
+- IntelliJ IDEA
 
--   **Programação Orientada a Objetos (POO):** Implementação robusta de conceitos como **classes, objetos, herança, polimorfismo, encapsulamento e interfaces**. Projetos como `GameOfThronesPOO` e `HarryPotterPoo` são exemplos claros da aplicação desses pilares, onde personagens e magias são modelados de forma hierárquica e interativa, demonstrando a capacidade de criar sistemas flexíveis, extensíveis e de fácil manutenção.
--   **Lógica de Programação:** Resolução de diversos exercícios para fortalecer o raciocínio lógico e a sintaxe básica do Java, essenciais para a construção de algoritmos eficientes e a resolução de problemas complexos de forma estruturada.
--   **Estruturas de Dados:** Utilização de estruturas de dados nativas do Java em problemas práticos, otimizando o armazenamento e acesso à informação, um pilar fundamental para a performance e escalabilidade de aplicações Back-end.
+## Conteúdo atual
 
----
-
-## 💻 Tecnologias
-
--   Java (versão 17 ou superior)
--   Git & GitHub
--   IntelliJ IDEA (IDE)
-
----
-
-## 🚀 Como rodar
-
-Para executar os projetos neste repositório, siga os passos abaixo:
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone https://github.com/vineog23-boop/Portfolio-Java-Estudos.git
-    ```
-2.  **Abra no IntelliJ IDEA:**
-    -   Abra o IntelliJ IDEA e selecione `Open`.
-    -   Navegue até a pasta `Portfolio-Java-Estudos` que você clonou e clique em `Open`.
-    -   O IntelliJ deve reconhecer o projeto Java automaticamente.
-3.  **Execute os projetos:**
-    -   Navegue até a classe `Main.java` dentro de cada subprojeto (ex: `src/GameOfThronesPOO/Main.java`).
-    -   Clique com o botão direito na classe `Main.java` e selecione `Run 'Main.main()'`. Alternativamente, use o botão de play verde na barra de ferramentas.
-
----
-
-## 📂 Estrutura do projeto
-
-```
-Portfolio-Java-Estudos/
+```text
+java-studies-portfolio/
 ├── src/
-│   ├── GameOfThronesPOO/         # ⚔️ Projeto demonstrando POO com tema Game of Thrones (Herança, Polimorfismo, Interfaces)
-│   ├── HarryPotterPoo/           # 🧙‍♂️ Projeto demonstrando POO com tema Harry Potter (Classes, Objetos, Encapsulamento)
-│   ├── MoocHelsinki/             # 🎓 Exercícios do curso Mooc.fi Java Programming (Fundamentos)
-│   ├── TreinoJavaIniciante/      # 💡 Exercícios básicos de lógica em Java
-│   └── TreinoJavaIntermediario/  # 📈 Exercícios intermediários em Java
-├── .gitignore                    # Arquivo para ignorar arquivos e pastas desnecessárias
-└── README.md                     # Este arquivo
+│   ├── GameOfThronesPOO/        # Exercícios de herança, polimorfismo e interfaces
+│   ├── HarryPotterPoo/          # Modelagem orientada a objetos com tema lúdico
+│   ├── MoocHelsinki/            # Exercícios do curso MOOC.fi Java Programming
+│   ├── TreinoJavaIniciante/     # Lógica e fundamentos da linguagem
+│   └── TreinoJavaIntermediario/ # Exercícios de progressão técnica
+└── README.md
 ```
 
----
+## O que este repositório demonstra
 
-## 📈 Status
+- prática frequente de Java
+- consolidação de fundamentos antes de projetos maiores
+- exercícios organizados por tema e nível
+- preocupação com documentação e evolução contínua
 
-Em evolução contínua. Novos exercícios e projetos são adicionados conforme o aprendizado avança, sempre buscando aprimorar a aplicação dos conceitos de POO e as boas práticas de desenvolvimento, visando a construção de um portfólio sólido para o mercado de trabalho.
+## Como utilizar
 
----
+```bash
+git clone https://github.com/vineog23-boop/java-studies-portfolio.git
+cd java-studies-portfolio
+```
 
-## 💡 Próximos passos
+Depois disso, abra o projeto na IDE e execute individualmente as classes principais de cada módulo de estudo.
 
--   Implementar testes unitários em alguns projetos de POO para garantir a robustez e a qualidade do código.
--   Adicionar um projeto simples de API REST com Spring Boot, explorando o desenvolvimento web com Java e a integração com bancos de dados.
--   Explorar e aplicar padrões de projeto (Design Patterns) em exemplos práticos para soluções mais elegantes e escaláveis, preparando-me para desafios de arquitetura.
--   Refatorar código existente para melhorar a legibilidade e manutenção, seguindo princípios de código limpo e SOLID.
--   Adicionar documentação Javadoc para classes e métodos principais, facilitando o entendimento e a colaboração em projetos futuros.
+## Próximos passos
+
+- manter os módulos de estudo organizados por tema
+- melhorar padronização de nomes de pastas e arquivos
+- adicionar projetos mais próximos de backend real conforme o roadmap avançar
+- destacar, no futuro, quais módulos devem permanecer públicos como portfólio e quais são apenas estudo interno
+
+## Status
+
+Repositório ativo de estudos e prática contínua em Java.
+
+## Autor
+
+Desenvolvido por **Vinícius Oliveira Gonçalves** como parte da formação em Java backend.
