@@ -28,3 +28,5 @@ java-studies-portfolio/
 git clone https://github.com/vineog23-boop/java-studies-portfolio.git
 cd java-studies-portfolio
 ```
+## 👨‍💻 Autor
+Desenvolvido por Vinícius Oliveira Gonçalves.
