@@ -21,3 +21,10 @@ java-studies-portfolio/
 │   ├── TreinoJavaIniciante/
 │   └── TreinoJavaIntermediario/
 ```
+## ✅ O que este repositório demonstra
+- Prática frequente de Java, consolidação de fundamentos e evolução contínua.
+## ▶️ Como utilizar
+```bash
+git clone https://github.com/vineog23-boop/java-studies-portfolio.git
+cd java-studies-portfolio
+```
